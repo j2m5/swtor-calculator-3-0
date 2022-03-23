@@ -1,4 +1,4 @@
-# test
+# swtor-calculator-3-0
 
 ## Project setup
 ```
