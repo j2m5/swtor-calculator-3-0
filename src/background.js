@@ -16,7 +16,7 @@ async function createWindow() {
     width: 900,
     height: 600,
     title: 'SWTOR Gear calculator',
-    icon: 'src/assets/swtor.png',
+    icon: 'src/assets/icon.png',
     webPreferences: {
       nodeIntegration: process.env.ELECTRON_NODE_INTEGRATION,
       contextIsolation: !process.env.ELECTRON_NODE_INTEGRATION
