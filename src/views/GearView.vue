@@ -89,10 +89,13 @@
       </select>
     </div>
     <div>
-      <button @click="calculate">Получить результат</button>
+      <button @click="calculate" :disabled="disabledIf">Получить результат</button>
     </div>
     <div class="navigation">
       <router-link to="/" exact>Главная</router-link> | <router-link to="/percents" exact>Проценты</router-link>
+    </div>
+    <div v-if="attribute === 'Alacrity' && hasAlacrityBuff && response.build.length">
+      <span>Результат расчитывается с учетом Alacrity buff 3%</span>
     </div>
     <div v-if="response.build.length" class="result">
       <div>Искомое значение: {{ percent }}% ({{ Math.ceil(ratingFromPercent) }})</div>
@@ -107,7 +110,7 @@ import math_ from '@/mixins/math'
 import maxRating from '@/mixins/maxRating'
 import disciplines from '@/mixins/disciplines'
 import bindings from '@/data/bindings'
-import { calculateRatingFromPercent, makeBuild } from '@/functions'
+import { calculateRatingFromPercent, makeBuild, hasAlacrityBuff } from '@/functions'
 export default {
   name: 'GearView',
   mixins: [math_, maxRating, disciplines],
@@ -131,12 +134,24 @@ export default {
     }
   },
   watch: {
+    set () {
+      this.clearResponse()
+    },
     class_ () {
       this.discipline = this.getDisciplines[0]
       this.attribute = this.getAttributes[0]
+      this.clearResponse()
     },
     discipline () {
       this.attribute = this.getAttributes[0]
+      this.clearResponse()
+    },
+    rating () {
+      this.clearResponse()
+    },
+    attribute () {
+      this.usingStim = false
+      this.clearResponse()
     }
   },
   computed: {
@@ -145,6 +160,14 @@ export default {
     },
     getAttributes () {
       return this.bindings.find(el => el.discipline === this.discipline).attributes
+    },
+    hasAlacrityBuff () {
+      return hasAlacrityBuff(this.discipline)
+    },
+    disabledIf () {
+      return (!this.percent) ||
+      (this.attribute === 'Alacrity' && this.discipline === 'Carnage/Combat' && this.percent < 4) ||
+      (this.attribute === 'Alacrity' && this.discipline === 'Arsenal/Gunnery' && this.percent < 4)
     }
   },
   methods: {
@@ -165,6 +188,12 @@ export default {
         this.usingStim,
         this.usingAugments
       )
+    },
+    clearResponse () {
+      this.response = {
+        build: [],
+        total: 0
+      }
     }
   }
 }

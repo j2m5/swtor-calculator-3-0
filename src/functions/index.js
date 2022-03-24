@@ -7,6 +7,9 @@ import augments from '@/sets/augments'
 import patterns from '@/data/patterns'
 import { attributeItems, disciplineItems, filtered } from '@/functions/filters'
 
+export const hasAlacrityBuff = discipline => (discipline === 'Carnage/Combat' || discipline === 'Arsenal/Gunnery')
+const alacrityBuff = 931 // 3% // target - alacrityBuff
+
 export function calculatePercentFromRating (rating, cap, divisor, level = 80) {
   const x = (1 - (0.01 / cap))
   const y = ((rating / level) / divisor)
@@ -56,7 +59,7 @@ export function makeBuild (attribute, discipline, rating, augmentRating, set, ta
     }
   }
 
-  const result = getGearBuilds(prototype, target)
+  const result = getGearBuilds(prototype, target, discipline)
   const sum = []
   result.forEach(el => {
     sum.push(el.map(x => x.secondarystat).reduce((a, b) => a + b))
@@ -69,11 +72,11 @@ export function makeBuild (attribute, discipline, rating, augmentRating, set, ta
   return { build, total }
 }
 
-function getGearBuilds (prototype, target, start = 0) {
+function getGearBuilds (prototype, target, discipline, start = 0) {
   const maxValue = prototype.map(el => el.secondarystat).reduce((a, b) => a + b)
   const result = []
   const build = []
-  let current = 0
+  let current = hasAlacrityBuff(discipline) ? alacrityBuff : 0
   let i = start
   while (current <= target) {
     if (current >= maxValue) break
@@ -83,6 +86,6 @@ function getGearBuilds (prototype, target, start = 0) {
     i++
   }
   result.push([build])
-  if (start < prototype.length - 1) result.push(getGearBuilds(prototype, target, start + 1))
+  if (start < prototype.length - 1) result.push(getGearBuilds(prototype, target, discipline, start + 1))
   return result.flat(1).filter(el => el.length)
 }
