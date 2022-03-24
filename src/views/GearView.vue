@@ -77,9 +77,6 @@
     <div>
       <input v-model.number="percent" type="number" id="percent">
     </div>
-    <!-- <div>
-      <label for="usingAugments"></label>
-    </div> -->
     <div>
       <input v-model="usingAugments" type="checkbox" id="usingAugments">
       <label for="usingAugments">Использовать аугменты?</label>
