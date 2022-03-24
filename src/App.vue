@@ -20,6 +20,7 @@ body {
     border-radius: 3px;
     color: #a2a4a3;
     cursor: pointer;
+    outline: none;
     padding: 3px;
   }
   button {
@@ -27,6 +28,7 @@ body {
     border: 1px solid #6799b4;
     border-radius: 3px;
     color: #a2a4a3;
+    outline: none;
     cursor: pointer;
     padding: 5px;
     &:disabled {
@@ -43,6 +45,7 @@ body {
   label[for=usingAugments]:before {
     content: '';
     color: #6799b4;
+    cursor: pointer;
     display: inline-block;
     margin-right: 7px;
     position: relative;
