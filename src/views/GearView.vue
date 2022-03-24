@@ -65,11 +65,12 @@
         </option>
       </select>
     </div>
-    <div v-if="attribute === 'Accuracy'">
+    <!-- <div v-if="attribute === 'Accuracy'">
       <label for="usingStim"></label>
-    </div>
+    </div> -->
     <div v-if="attribute === 'Accuracy' || attribute === 'Critical'">
-      <input v-model="usingStim" type="checkbox" id="usingStim">Использовать стим?
+      <input v-model="usingStim" type="checkbox" id="usingStim">
+      <label for="usingStim">Использовать стим?</label>
     </div>
     <div>
       <label for="percent">Укажите процент</label>

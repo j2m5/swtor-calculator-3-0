@@ -39,10 +39,10 @@ body {
       background-color: #0d3348;
     }
   }
-  #usingAugments {
+  #usingAugments, #usingStim {
     display: none;
   }
-  label[for=usingAugments]:before {
+  label[for=usingAugments]:before, label[for=usingStim]:before {
     content: '';
     color: #6799b4;
     cursor: pointer;
@@ -57,7 +57,7 @@ body {
     border: 1px solid #6799b4;
     vertical-align: middle;
   }
-  #usingAugments:checked + label[for=usingAugments]:before {
+  #usingAugments:checked + label[for=usingAugments]:before, #usingStim:checked + label[for=usingStim]:before {
     content: '✓';
   }
 }

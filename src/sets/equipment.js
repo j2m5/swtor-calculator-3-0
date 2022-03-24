@@ -14493,36 +14493,36 @@ export default [
     name: "Rakata Force Lord's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Lord's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Lord's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Lord's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Lord's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Lord's Belt",
@@ -14542,50 +14542,50 @@ export default [
     name: "Rakata Force Lord's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Lord's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Belt",
@@ -14605,50 +14605,50 @@ export default [
     name: "Rakata Pummeler's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Pummeler's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Belt",
@@ -14668,50 +14668,50 @@ export default [
     name: "Rakata Targeter's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Targeter's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Accuracy Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Accuracy Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Belt",
@@ -14731,50 +14731,50 @@ export default [
     name: "Rakata Boltblaster's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Boltblaster's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Belt",
@@ -14794,50 +14794,50 @@ export default [
     name: "Rakata Force Healer's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Force Healer's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Belt",
@@ -14857,50 +14857,50 @@ export default [
     name: "Rakata Med Tech's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Med Tech's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Helmet",
     rating: 330,
     category: 'head',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Chestguard",
     rating: 330,
     category: 'chest',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Gauntlets",
     rating: 330,
     category: 'gloves',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Legplates",
     rating: 330,
     category: 'legs',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Boots",
     rating: 330,
     category: 'feet',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Belt",
@@ -14920,15 +14920,15 @@ export default [
     name: "Rakata Mender's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Critical Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Critical Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Mender's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1399, Power: 845, Alacrity Rating: 500, Mastery: 1080',
-    secondarystat: 500
+    statmodifiers: 'Endurance: 1304, Power: 845, Alacrity Rating: 554, Mastery: 1104',
+    secondarystat: 554
   },
   {
     name: "Rakata Duelist's Helmet",
@@ -14983,15 +14983,15 @@ export default [
     name: "Rakata Duelist's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1540, Shield Rating: 527, Defense Rating: 627, Mastery: 1054',
-    secondarystat: 527
+    statmodifiers: 'Endurance: 1357, Shield Rating: 554, Defense Rating: 845, Mastery: 1054',
+    secondarystat: 554
   },
   {
     name: "Rakata Duelist's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1540, Absorption Rating: 527, Defense Rating: 627, Mastery: 1054',
-    secondarystat: 527
+    statmodifiers: 'Endurance: 1357, Absorption Rating: 554, Defense Rating: 845, Mastery: 1054',
+    secondarystat: 554
   },
   {
     name: "Rakata Bulwark's Helmet",
@@ -15046,15 +15046,15 @@ export default [
     name: "Rakata Bulwark's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1540, Shield Rating: 527, Defense Rating: 627, Mastery: 1054',
-    secondarystat: 527
+    statmodifiers: 'Endurance: 1357, Shield Rating: 554, Defense Rating: 845, Mastery: 1054',
+    secondarystat: 554
   },
   {
     name: "Rakata Bulwark's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1540, Absorption Rating: 527, Defense Rating: 627, Mastery: 1054',
-    secondarystat: 527
+    statmodifiers: 'Endurance: 1357, Absorption Rating: 554, Defense Rating: 845, Mastery: 1054',
+    secondarystat: 554
   },
   {
     name: "Rakata Demolisher's Helmet",
@@ -15109,14 +15109,14 @@ export default [
     name: "Rakata Demolisher's Mainhand",
     rating: 330,
     category: 'mainhand',
-    statmodifiers: 'Endurance: 1540, Shield Rating: 527, Defense Rating: 627, Mastery: 1054',
-    secondarystat: 527
+    statmodifiers: 'Endurance: 1357, Shield Rating: 554, Defense Rating: 845, Mastery: 1054',
+    secondarystat: 554
   },
   {
     name: "Rakata Demolisher's Offhand",
     rating: 330,
     category: 'offhand',
-    statmodifiers: 'Endurance: 1540, Absorption Rating: 527, Defense Rating: 627, Mastery: 1054',
-    secondarystat: 527
+    statmodifiers: 'Endurance: 1357, Absorption Rating: 554, Defense Rating: 845, Mastery: 1054',
+    secondarystat: 554
   }
 ]
